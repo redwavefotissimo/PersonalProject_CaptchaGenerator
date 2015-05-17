@@ -1,0 +1,6 @@
+L:\sharedfolder\projects\visual studio 2010 projects\c#\CaptchaGenerator\CaptchaGenerator\bin\Debug\CaptchaGenerator.exe
+L:\sharedfolder\projects\visual studio 2010 projects\c#\CaptchaGenerator\CaptchaGenerator\bin\Debug\CaptchaGenerator.pdb
+L:\sharedfolder\projects\visual studio 2010 projects\c#\CaptchaGenerator\CaptchaGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\sharedfolder\projects\visual studio 2010 projects\c#\CaptchaGenerator\CaptchaGenerator\obj\x86\Debug\CaptchaGenerator.exe
+L:\sharedfolder\projects\visual studio 2010 projects\c#\CaptchaGenerator\CaptchaGenerator\obj\x86\Debug\CaptchaGenerator.pdb
+L:\sharedfolder\projects\visual studio 2010 projects\c#\CaptchaGenerator\CaptchaGenerator\bin\Debug\MindHelper.dll
